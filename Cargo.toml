@@ -1,0 +1,16 @@
+[package]
+name = "hello_world_acix"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-cors = "0.7.0"
+actix-web="4"
+bcrypt = "0.15.0"
+google-cloud-auth = "0.13.1"
+google-cloud-storage = "0.16.0"
+serde = {version="1.0.196",features=["derive"]}
+tokio = "1.36.0"
+tokio-postgres = "0.7.10"

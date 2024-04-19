@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "duel-production",
+  "private_key_id": "bf3282f85f2a10cee79da856b07f5f3c6ccc624d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDzvXwRdKrIiQQ4\n4LnWgG1NN7b9mRSIe2YyNFmAZ3CT3AKp4Gk/Sisonmd9BVmlSgUfVnnr+WWsNxBq\n9sIZCksRyCRjVDMGlxX7siK89IqbzDeYH3B+0Uuw5Roz8OB+TlvRkmeKeHHOLMsa\njNrLbmVk5p0qxTW7aWferdlVigJ9UULpbrtRkyBaVJL8e+bguk8QB2NIytuWlW85\nOB6RWOQYiiZPVH00xdE32AT9v1J8dnsyEUkhUiSc19hhdL1+YjcgXlvjLoPnEgj1\n1eyzAzG8kChEmMc97zZc+wULaSs7rK5nH436nGNFjIQnRjvpfGa0Xfl95s6QIp8j\ngD7oPiujAgMBAAECggEAH4GtYXZCw0RO2ulVrGASgOpESbi5ekD1P2Ub8qisWTiV\n0Y60HB3CwW/kcbk40tBkJB5iCTpGRcIiaak3AtSdSpGj/oD6TY5HJa9rpSA5MJVv\n1EawHHyCe73JqtAmvLz1SnxRzQjvsRaCNI7jk2tUSPw0cbxnSy//YL35O4Do/Hi9\niJhorpBFYykznP/4ajLJPzk7NOQhkk+Doo3sqIwj2gwmXGnme/lkBx4SaUmQU92C\np5izzTeOAuOCzjy8f2418UyNnuVF9HwmdOlHbQgREPMgU0HQzwbPEy8cAQ2CU0rB\naSAb+Z31TQiYNKnWXzCwm68dh6+vG8Qk1o3C5uHehQKBgQD6i3+hx/pts9EdiZi8\nahqMjoxc4rcSda5AYnzhpO6vgiq+ei7yhmrOJNEWP+PR6zvsWKTJy6tszIsUeLaf\n5zMh79BeG/+p6YV20Lk2G00qsSdOHmKzFUEGeJ0oMoREyy+EX4F0cb+dYEmpCUOw\n2ArEPiEMEmwgG4B4K3XSvcdINwKBgQD5DA6zTrs5eXRPkC6gDi5lHR/ALmdbexLp\nVUWDeHSmLMHgetwNYcTxzc65dGk16dnL19OXrasXxpVzfS1Ml1QmccRu54FiUMTb\nAESjLsLDCUnW1CW6cYzG5X6J78T+G1wRev41SK3n6EGIv2SeKmsB9SaibB9Z0FND\nL/z2GJTp9QKBgQDR+sQXRND/zCrAhKd7kbl6f6Xn2yLv160YzPI48tAQTBmi1igu\nnrU42+ZYrWc0ceAg7xH9BjM/1hXiLGFyloRmNuT9Wp3lO4/dyoTPcgY0d5CnihPS\nX0fGMqQUInJ0bY3/dUO74fFj5mUVxGv09LvhSOjNg0sXhbUgAdyXqPIx9QKBgACy\nBux7QMyVSTzbozWxNHH11dvchU9dFZ1vLoWCdZjtMRFmZmznI/yk3XnpGE4dPA10\nqdOXmY20cUBkThcTqRl+YdUJcnQK07Hk20w1WjffM8SUzRIrNQBtLaBG+h7XhrdJ\nx6HwdQPbwysVlbtXVPspaxUzBhdjHIhofuVVBj1tAoGBAMDCk6g4ZpkV6xpxTk2/\nclBVRNrckTwoqV/jgMPaxEsGDIVFQH3gG40miQxTIPBuf5JQ9+DJABPBbN4i59hy\nruejF2184UXTJ4qTke+4SykhipQG035ag23F05rWBjrF0nXH0U7wNhn9+g041zSr\nY21w020jjWjxLEvZ4VeEWSz6\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-upload@duel-production.iam.gserviceaccount.com",
+  "client_id": "113896232854096927954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-upload%40duel-production.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
